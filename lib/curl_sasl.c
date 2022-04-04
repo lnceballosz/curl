@@ -1,35 +1,7 @@
-/***************************************************************************
- *                                  _   _ ____  _
- *  Project                     ___| | | |  _ \| |
- *                             / __| | | | |_) | |
- *                            | (__| |_| |  _ <| |___
- *                             \___|\___/|_| \_\_____|
- *
- * Copyright (C) 2012 - 2022, Daniel Stenberg, <daniel@haxx.se>, et al.
- *
- * This software is licensed as described in the file COPYING, which
- * you should have received as part of this distribution. The terms
- * are also available at https://curl.se/docs/copyright.html.
- *
- * You may opt to use, copy, modify, merge, publish, distribute and/or sell
- * copies of the Software, and permit persons to whom the Software is
- * furnished to do so, under the terms of the COPYING file.
- *
- * This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
- * KIND, either express or implied.
- *
- * RFC2195 CRAM-MD5 authentication
- * RFC2617 Basic and Digest Access Authentication
- * RFC2831 DIGEST-MD5 authentication
- * RFC4422 Simple Authentication and Security Layer (SASL)
- * RFC4616 PLAIN authentication
- * RFC5802 SCRAM-SHA-1 authentication
- * RFC7677 SCRAM-SHA-256 authentication
- * RFC6749 OAuth 2.0 Authorization Framework
- * RFC7628 A Set of SASL Mechanisms for OAuth
- * Draft   LOGIN SASL Mechanism <draft-murchison-sasl-login-00.txt>
- *
- ***************************************************************************/
+// Copyright (C) 2012 - 2022, Daniel Stenberg, <daniel@haxx.se>, et al.
+// SPDX-FileCopyrightText: 1998-2020 Daniel Stenberg, <daniel@haxx.se>, et al.
+//
+// SPDX-License-Identifier: curl
 
 #include "curl_setup.h"
 

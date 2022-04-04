@@ -1,18 +1,8 @@
-/***************************************************************************
- *                                  _   _ ____  _
- *  Project                     ___| | | |  _ \| |
- *                             / __| | | | |_) | |
- *                            | (__| |_| |  _ <| |___
- *                             \___|\___/|_| \_\_____|
- *
- * Web crawler based on curl and libxml2.
- * Copyright (C) 2018 - 2020 Jeroen Ooms <jeroenooms@gmail.com>
- * License: MIT
- *
- * To compile:
- *   gcc crawler.c $(pkg-config --cflags --libs libxml-2.0 libcurl)
- *
- */
+// Copyright (C) 2018 - 2020 Jeroen Ooms <jeroenooms@gmail.com>
+// SPDX-FileCopyrightText: 1998-2020 Daniel Stenberg, <daniel@haxx.se>, et al.
+//
+// SPDX-License-Identifier: curl
+
 /* <DESC>
  * Web crawler based on curl and libxml2 to stress-test curl with
  * hundreds of concurrent connections to various servers.

@@ -1,12 +1,8 @@
-/*****************************************************************************
- *                                  _   _ ____  _
- *  Project                     ___| | | |  _ \| |
- *                             / __| | | | |_) | |
- *                            | (__| |_| |  _ <| |___
- *                             \___|\___/|_| \_\_____|
- *
- * Copyright (c) 2000 - 2021 David Odin (aka DindinX) for MandrakeSoft
- */
+// Copyright (c) 2000 - 2021 David Odin (aka DindinX) for MandrakeSoft
+// SPDX-FileCopyrightText: 1998-2020 Daniel Stenberg, <daniel@haxx.se>, et al.
+//
+// SPDX-License-Identifier: curl
+
 /* <DESC>
  * use the libcurl in a gtk-threaded application
  * </DESC>

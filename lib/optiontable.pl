@@ -1,5 +1,9 @@
 #!/usr/bin/env perl
 
+# SPDX-FileCopyrightText: 1998-2020 Daniel Stenberg, <daniel@haxx.se>, et al.
+#
+# SPDX-License-Identifier: curl
+
 print <<HEAD
 /***************************************************************************
  *                                  _   _ ____  _

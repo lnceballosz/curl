@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 1998-2020 Daniel Stenberg, <daniel@haxx.se>, et al.
+
+SPDX-License-Identifier: curl
+-->
+
 # libcurl examples
 
 This directory is for libcurl programming examples. They are meant to show

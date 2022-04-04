@@ -1,37 +1,7 @@
-/***************************************************************************
- *                                  _   _ ____  _
- *  Project                     ___| | | |  _ \| |
- *                             / __| | | | |_) | |
- *                            | (__| |_| |  _ <| |___
- *                             \___|\___/|_| \_\_____|
- *
- * Copyright (C) 1998 - 2022, Daniel Stenberg, <daniel@haxx.se>, et al.
- *
- * This software is licensed as described in the file COPYING, which
- * you should have received as part of this distribution. The terms
- * are also available at https://curl.se/docs/copyright.html.
- *
- * You may opt to use, copy, modify, merge, publish, distribute and/or sell
- * copies of the Software, and permit persons to whom the Software is
- * furnished to do so, under the terms of the COPYING file.
- *
- * This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
- * KIND, either express or implied.
- *
- * RFC2195 CRAM-MD5 authentication
- * RFC2595 Using TLS with IMAP, POP3 and ACAP
- * RFC2831 DIGEST-MD5 authentication
- * RFC3501 IMAPv4 protocol
- * RFC4422 Simple Authentication and Security Layer (SASL)
- * RFC4616 PLAIN authentication
- * RFC4752 The Kerberos V5 ("GSSAPI") SASL Mechanism
- * RFC4959 IMAP Extension for SASL Initial Client Response
- * RFC5092 IMAP URL Scheme
- * RFC6749 OAuth 2.0 Authorization Framework
- * RFC8314 Use of TLS for Email Submission and Access
- * Draft   LOGIN SASL Mechanism <draft-murchison-sasl-login-00.txt>
- *
- ***************************************************************************/
+// Copyright (C) 1998 - 2022, Daniel Stenberg, <daniel@haxx.se>, et al.
+// SPDX-FileCopyrightText: 1998-2020 Daniel Stenberg, <daniel@haxx.se>, et al.
+//
+// SPDX-License-Identifier: curl
 
 #include "curl_setup.h"
 
